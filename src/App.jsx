@@ -23,7 +23,7 @@ return(
       </div>
     </div>
     <div className='corpo'>
-        <div className='large_box'>
+        <div className='box'>
           <div className='box2'>
             Licitações e compras diretas(Dispesas)
           </div>
@@ -75,8 +75,8 @@ return(
           Liquidações
         </div>
         <div className='descr'>
-          <p>Despesas liquidadas destinadas ao enfrentamento</p> 
-          e combate a COVID-19
+          <p>Despesas liquidadas destinadas ao enfrentamento e</p> 
+          combate a COVID-19
         </div>
         <div className='valor'>
           Valor atualizado: 20.137,02
@@ -87,8 +87,8 @@ return(
           Pagamentos
         </div>
         <div className='descr'>
-          <p>Despesas pagas destinadas ao enfrentamento </p> 
-          e combate a COVID-19
+          <p>Despesas pagas destinadas ao enfrentamento e</p> 
+          combate a COVID-19
         </div>
         <div className='valor'>
           Valor atualizado: 20.137,02
