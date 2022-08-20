@@ -15,7 +15,7 @@ return(
         </div>
       </div>
       <div className='mainImg'>
-          <img className='topimg' src='src\1140x641'/>
+          <img className='topimg' src='src/Imgs/1140x641.jpg'/>
         </div>
     </div>
   </div>
