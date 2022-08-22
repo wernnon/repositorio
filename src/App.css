@@ -75,3 +75,37 @@
   font-size: larger;
   font-weight: 600;
 }
+
+
+
+
+
+
+
+
+
+.sugestao{
+ 
+  padding: 20px;
+ 
+}
+.componentes{
+  display: flex;
+  flex-direction: row;
+  font-size: 18px;
+  margin: 10px;
+  padding: 0px;
+  font-weight: bold;
+  border-radius: 15px;
+  flex-wrap: wrap;
+
+  
+
+}
+.divcomponentes{
+  background-color: gray;
+  display: flex;
+  border-radius: 15px;
+  justify-content: center;
+
+}

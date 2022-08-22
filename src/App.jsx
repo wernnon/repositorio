@@ -2,6 +2,36 @@
 import './App.css'
 
 function App(){
+  const rodape = [{
+
+    img:<img src='src/Imgs/1140x641.jpg' width={270} ></img>,
+    descricao: "Titulo"
+    },
+    {
+      img:<img src='src/Imgs/1140x641.jpg'width={270}></img>,
+      descricao: "Titulo"
+    },
+    {
+      img:<img src='src/Imgs/1140x641.jpg'width={270}></img>,
+      descricao: "Titulo"
+    },
+    {
+      img:<img src='src/Imgs/1140x641.jpg'width={270}></img>,
+      descricao: "Titulo"
+    }
+  ]
+  const sugestao= rodape.map(
+    (sugestao)=>{
+      return(
+        <div className='sugestao'>
+          {sugestao.img}
+          <br></br>
+          {sugestao.descricao}
+        </div>
+      )
+
+    }
+  )
 return(
   <div>
     <div className='main'>
@@ -54,6 +84,26 @@ return(
           <div className='title2'>
             titulo
           </div>
+          
+        </div>
+        
+      </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <div className='divcomponentes'>
+        <div className='componentes'>
+          {sugestao}
         </div>
       </div>
   </div>
