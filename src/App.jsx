@@ -31,7 +31,7 @@ return(
             <img className='botImg' src='src\1140x641.jpg' />
           </div>
           <div className='title2'>
-            alunos enrolam 30 minutos na aula 
+            aludd a dfsd dwereghg hj t ghjth j 
           </div>
         </div>
         <div className='box'>
