@@ -7,7 +7,7 @@ return(
     <div className='main'>
         <div className='inform'>
           <div className='title'>
-            titulo
+            Jovens são encontrados sendo gays 
           </div>
           <div className='news'>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, voluptas recusandae obcaecati impedit soluta rerum, molestiae repudiandae dolorum, fugiat nihil excepturi voluptatum ut dolore minus facere. Harum nemo odit fuga.
@@ -19,35 +19,43 @@ return(
       </div>
       <div className='sugest'>
         <div className='box'>
-          <div className='secimg'>
-            <img className='botimg' src='src\1140x641.jpg' />
+          <div className='secImg'>
+            <img className='botImg' src='src\1140x641.jpg' />
           </div>
           <div className='title2'>
-            titulo
+            segunta n teve aula kkk
           </div>
         </div>
         <div className='box'>
-          <div className='secimg'>
-            <img className='botimg' src='src\1140x641.jpg' />
+          <div className='secImg'>
+            <img className='botImg' src='src\1140x641.jpg' />
           </div>
           <div className='title2'>
-            titulo
+            alunos enrolam 30 minutos na aula 
           </div>
         </div>
         <div className='box'>
-          <div className='secimg'>
-            <img className='botimg' src='src\1140x641.jpg' />
+          <div className='secImg'>
+            <img className='botImg' src='src\1140x641.jpg' />
           </div>
           <div className='title2'>
-            titulo
+            tchuru buru tchugus 
           </div>
         </div>
         <div className='box'>
-          <div className='secimg'>
-            <img className='botimg' src='src\1140x641.jpg' />
+          <div className='secImg'>
+            <img className='botImg' src='src\1140x641.jpg' />
           </div>
           <div className='title2'>
-            titulo
+            sadifh uhdf shd uods fygdi  eufhg  fhs fub sduif 
+          </div>
+        </div>
+        <div className='box'>
+          <div className='secImg'>
+            <img className='botImg' src='src\1140x641.jpg' />
+          </div>
+          <div className='title2'>
+            sadifh uhdf shd uods fygdi  eufhg  fhs fub sduif 
           </div>
         </div>
       </div>
