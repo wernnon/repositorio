@@ -1,55 +1,19 @@
 //App.jsx
 import './App.css'
 import Main from './Componetes/Main/main'
+import Sugest from './Componetes/Sugest/sugest'
 function App(){
 return(
   <div>
 
+      <Main titulo="the lion is goin to day" 
+      news="Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis id cupiditate aliquid eos! Aut illum impedit ullam voluptas placeat incidunt, corrupti laudantium, atque porro ab molestias quas ut. Sequi, in!" 
+      image="src/Images/1140X641.jpg" 
+      />
+      <Sugest image="src/Images/1140X641.jpg" />
 
 
-
-      <div className='sugest'>
-        <div className='box'>
-          <div className='secImg'>
-            <img className='botImg' src='src\Images\1140x641.jpg' />
-          </div>
-          <div className='title2'>
-            segunta n teve aula kkk
-          </div>
-        </div>
-        <div className='box'>
-          <div className='secImg'>
-            <img className='botImg' src='src\1140x641.jpg' />
-          </div>
-          <div className='title2'>
-            aludd a dfsd dwereghg hj t ghjth j 
-          </div>
-        </div>
-        <div className='box'>
-          <div className='secImg'>
-            <img className='botImg' src='src\1140x641.jpg' />
-          </div>
-          <div className='title2'>
-            tchuru buru tchugus 
-          </div>
-        </div>
-        <div className='box'>
-          <div className='secImg'>
-            <img className='botImg' src='src\1140x641.jpg' />
-          </div>
-          <div className='title2'>
-            sadifh uhdf shd uods fygdi  eufhg  fhs fub sduif 
-          </div>
-        </div>
-        <div className='box'>
-          <div className='secImg'>
-            <img className='botImg' src='src\1140x641.jpg' />
-          </div>
-          <div className='title2'>
-            sadifh uhdf shd uods fygdi  eufhg  fhs fub sduif 
-          </div>
-        </div>
-      </div>
+      
   </div>
 )
 }
