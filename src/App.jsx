@@ -1,10 +1,11 @@
 //App.jsx
 import './App.css'
 import Main from './Componetes/Main/main'
+import footer from './Componetes/Footer/footer'
 function App(){
 return(
   <div>
-
+{footer}
 
 
 
@@ -51,6 +52,7 @@ return(
         </div>
       </div>
   </div>
+  
 )
 }
 export default App
