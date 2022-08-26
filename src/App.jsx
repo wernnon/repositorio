@@ -1,12 +1,11 @@
 //App.jsx
 import './App.css'
 import Main from './Componetes/Main/main'
+import Footer from './Componetes/Footer/footer'
 function App(){
 return(
+  
   <div>
-
-
-
 
       <div className='sugest'>
         <div className='box'>
@@ -50,6 +49,7 @@ return(
           </div>
         </div>
       </div>
+      
   </div>
 )
 }
