@@ -1,12 +1,10 @@
-import React, { Component } from 'react';
-import PropTypes from 'prop-types';
-
 function footer (){
 return(
     <div>
-        aaaaaadsgfsgdhf
+        FOOTER conhecido tbm como rodapé
     </div>
 )
 }
 
 export default footer;
+
