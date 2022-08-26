@@ -19,7 +19,7 @@ return(
         </div>
         <div className='box'>
           <div className='secImg'>
-            <img className='botImg' src='src\1140x641.jpg' />
+            <img className='botImg' src='src\Images\1140x641.jpg' />
           </div>
           <div className='title2'>
             aludd a dfsd dwereghg hj t ghjth j 
@@ -27,7 +27,7 @@ return(
         </div>
         <div className='box'>
           <div className='secImg'>
-            <img className='botImg' src='src\1140x641.jpg' />
+            <img className='botImg' src='src\Images\1140x641.jpg' />
           </div>
           <div className='title2'>
             tchuru buru tchugus 
@@ -35,7 +35,7 @@ return(
         </div>
         <div className='box'>
           <div className='secImg'>
-            <img className='botImg' src='src\1140x641.jpg' />
+            <img className='botImg' src='src\Images\1140x641.jpg' />
           </div>
           <div className='title2'>
             sadifh uhdf shd uods fygdi  eufhg  fhs fub sduif 
@@ -43,7 +43,7 @@ return(
         </div>
         <div className='box'>
           <div className='secImg'>
-            <img className='botImg' src='src\1140x641.jpg' />
+            <img className='botImg' src='src\Images\1140x641.jpg' />
           </div>
           <div className='title2'>
             sadifh uhdf shd uods fygdi  eufhg  fhs fub sduif 
