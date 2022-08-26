@@ -15,16 +15,16 @@
     margin: 5px;
     padding: 5px;
     border-radius: 10px;
-    width: 232px;
+    width: 250px;
   }
   
-  .botImg{
-    height: 160px;
-    width: 232px;
+  .Img{
+    height: 170px;
+    width: 250px;
     border-radius: 10px 10px 0px 0px;
   }
   
-  .title2{
+  .title{
     text-align: center;
     font-size: larger;
     font-weight: 600;
