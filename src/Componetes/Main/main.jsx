@@ -14,7 +14,7 @@ export default function Main(props) {
                 </div>
             </div>
             <div className='mainImg'>
-                <img className='topimg' src={props.image}/>
+                <img className='img' src={props.image}/>
             </div>
         </div>
     </div>

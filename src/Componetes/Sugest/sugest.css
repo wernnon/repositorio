@@ -6,6 +6,7 @@
     padding-top: 4px;
     padding-bottom: 4px;
     justify-content: space-around;
+    flex-wrap: wrap;
   }
   
   .box{
@@ -15,12 +16,12 @@
     margin: 5px;
     padding: 5px;
     border-radius: 10px;
-    width: 250px;
+    width: 300px;
   }
   
   .Img{
     height: 170px;
-    width: 250px;
+    width: 100%;
     border-radius: 10px 10px 0px 0px;
   }
   
