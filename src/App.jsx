@@ -1,8 +1,8 @@
 //App.jsx
 import './App.css'
-import Main from './Componentes/Main/main'
-import Sugest from './Componentes/Sugest/sugest'
-import Footer from './Componentes/Footer/footer'
+import Main from './Componetes/Main/main'
+import Sugest from './Componetes/Sugest/sugest'
+import Footer from './Componetes/Footer/footer'
 
 function App(){
 return(
