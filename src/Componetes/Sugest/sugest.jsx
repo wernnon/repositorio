@@ -18,11 +18,7 @@ export default function Sugest() {
         {
             img: 'src/Images/1140x641.jpg',
             titulo : 'place holder'
-        },
-        {
-            img: 'src/Images/1140x641.jpg',
-            titulo : 'place holder'
-        },
+        }
     ]
     const sugest = info.map(
         (c)=> 

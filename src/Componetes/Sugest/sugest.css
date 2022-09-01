@@ -6,6 +6,7 @@
     padding-top: 0.65vw;
     padding-bottom: 0.65vw;
     justify-content: space-around;
+    flex-wrap: wrap;
   }
   
   .box{
@@ -22,6 +23,10 @@
     height: 10vw;
     width: 15.6vw;
     border-radius: 0.6vw 0.6vw 0vw 0vw;
+    margin: 5px;
+    padding: 5px;
+  }
+ 
   }
   
   .title{

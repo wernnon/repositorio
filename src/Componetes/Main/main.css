@@ -4,20 +4,23 @@
     justify-content: space-around;
     padding: 0.3vw;
     padding-bottom: 0.3vw;
+
   }
   
   .inform{
     display: flex;
     flex-direction: column;
+
     padding-left: 1.5vw;
     padding-right: 1.5vw;
+    width: 35vw; 
   }
   
   .Title{
     text-align: center;
     font-size: 3.5vw;
+    padding: 10px;
     font-weight: 1000;
-    flex-shrink: 1;
   }
   
   .news{
@@ -34,8 +37,8 @@
     margin-bottom: 0.3vw;
   }
   
+
   .topimg{
     border-radius: 0.6vw;
     width: 50vw;
     height: 27vw;
-  }
