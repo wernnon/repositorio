@@ -2,20 +2,20 @@
     display: flex;
     height: fit-content;
     justify-content: space-around;
-    padding: 5px;
-    padding-bottom: 5px;
+    padding: 0.3vw;
+    padding-bottom: 0.3vw;
   }
   
   .inform{
     display: flex;
     flex-direction: column;
-    padding-left: 25px;
-    padding-right: 25px;
+    padding-left: 1.5vw;
+    padding-right: 1.5vw;
   }
   
   .Title{
     text-align: center;
-    font-size: 40px;
+    font-size: 3.5vw;
     font-weight: 1000;
     flex-shrink: 1;
   }
@@ -23,19 +23,19 @@
   .news{
     font-weight: 400;
     text-align: justify;
-    font-size: larger;
+    font-size: 1.9vw;
   } 
   
   .mainImg{
-    padding: 5px;
-    padding-bottom: 0px;
+    padding: 0.3vw;
+    padding-bottom: 0vw;
     background-color: 206b2c;
-    border-radius: 15px;
-    margin-bottom: 5px;
+    border-radius: 0.9vw;
+    margin-bottom: 0.3vw;
   }
   
   .topimg{
-    border-radius: 5px;
-    width: 780px;
-    height: 400px;
+    border-radius: 0.6vw;
+    width: 50vw;
+    height: 27vw;
   }
