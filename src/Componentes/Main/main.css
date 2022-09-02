@@ -18,7 +18,7 @@
 .Title{
   text-align: center;
   font-size: 3.5vw;
-  padding: 10px;
+  padding: 0.5vw;
   font-weight: 1000;
 }
   
@@ -36,7 +36,7 @@
   margin-bottom: 0.3vw;
 }  
 
-.topimg{
+.img{
   border-radius: 0.6vw;
   width: 50vw;
   height: 27vw;
