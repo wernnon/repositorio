@@ -1,19 +1,16 @@
 import './App.css'
-import Main from './Componentes/Main/main'
-import Sugest from './Componentes/Sugest/sugest'
-import Titulo from './Componentes/Titulo/Titulo'
-import footer from './Componentes/Footer/footer'
+
+import React from 'react'
+import Rotas from './Rotas'
 
 function App(){
 return(
   
   <div>
-
-    <Titulo manch="Em comemoração ao dia do estudante, campus guajará-mirim" />
-
+    <Rotas/>
   </div>
   
 )
-    {footer}
+
 }
 export default App

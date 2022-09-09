@@ -1,5 +1,6 @@
 import React from 'react'
 import './main.css'
+import { Link } from 'react-router-dom'
 
 export default function Main(props) {
   return (
@@ -14,7 +15,10 @@ export default function Main(props) {
                 </div>
             </div>
             <div className='mainImg'>
-                <img className='img' src={props.image}/>
+                <Link to={props.link}>
+                    <img className='img' src={props.image}/>
+                </Link>
+                
             </div>
         </div>
     </div>
