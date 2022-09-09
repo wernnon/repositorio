@@ -1,6 +1,16 @@
 .titulo{
     text-align: center;
-    padding: 1vw;
-    font-size: 3.5vw;
+    font-size: 3.49vw;
     font-weight: 900;
+    background-color: #e6e6e6;
+}
+.image{
+    display: flex;
+    justify-content: center;
+    padding: 1vw 0vw 0vw 0vw;
+}
+.img{
+    border-radius: 0;
+    height: 30vw;
+    width: 70vw;
 }

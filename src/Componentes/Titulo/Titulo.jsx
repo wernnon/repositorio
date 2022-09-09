@@ -7,6 +7,9 @@ export default function Titulo(props) {
         <div className='titulo'>
             {props.manch}
         </div>
+        <div className='image'>
+          <img className='img'src={props.img}/>
+        </div>
     </div>
   )
 }
