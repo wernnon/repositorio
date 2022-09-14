@@ -3,9 +3,19 @@ import React from 'react'
 
 function Footer(){
 return(
-    <div>
-        FOOTER conhecido tbm como rodapé
-    </div>
+    <footer className='Footer'>
+        <ul>
+            <li>
+                Footer 
+            </li>
+            <li>
+                Footer 
+            </li>
+            <li>
+                Footer 
+            </li>
+        </ul>
+    </footer>
 )
 }
 export default Footer;

@@ -18,7 +18,6 @@ export default function Main(props) {
                 <Link to={props.link}>
                     <img className='img' src={props.image}/>
                 </Link>
-                
             </div>
         </div>
     </div>

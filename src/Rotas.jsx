@@ -11,6 +11,7 @@ export default function Rotas() {
               <Route path="/" element={<Nain />}/>
               <Route path="/footer" element={ <Footer /> } />
           </Routes>
+          
       </BrowserRouter>
     )
   }

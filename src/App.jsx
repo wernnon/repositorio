@@ -16,6 +16,7 @@ return(
     img='src/Images/1140x641.jpg' />
     <News News='raichoflei'/>
     <Rotas/>
+    <Footer/>
     
   </div>
  
