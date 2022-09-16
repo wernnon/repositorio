@@ -14,12 +14,11 @@ export default function Main(props) {
                     {props.news}
                 </div>
             </div>
-            <div className='mainImg'>
-                <Link to={props.link}>
-                    <img className='img' src={props.image}/>
-                </Link>
-                
-            </div>
+                <div className='mainImg'>
+                    <Link to={props.link}>
+                        <img className='image' src={props.image}/>
+                    </Link>                
+                </div>
         </div>
     </div>
   )
