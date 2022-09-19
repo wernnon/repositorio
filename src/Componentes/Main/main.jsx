@@ -14,25 +14,21 @@ export default function Main(props) {
                     {props.news}
                 </div>
             </div>
-<<<<<<< HEAD
-<<<<<<< HEAD
+
+
             <div className='mainImg'>
                 <Link to={props.link}>
                     <img className='img' src={props.image}/>
                 </Link>
             </div>
-=======
-=======
->>>>>>> cd7507ad3649398b0b113f440021be8057640d90
+
+
                 <div className='mainImg'>
                     <Link to={props.link}>
                         <img className='image' src={props.image}/>
                     </Link>                
                 </div>
-<<<<<<< HEAD
->>>>>>> cd7507ad3649398b0b113f440021be8057640d90
-=======
->>>>>>> cd7507ad3649398b0b113f440021be8057640d90
+
         </div>
     </div>
   )
