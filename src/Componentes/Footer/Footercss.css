@@ -5,10 +5,9 @@
     display: flex;
     flex-direction:row;
     justify-content: left;
-    
-    font-size: 15px;
-    margin: 24px;
+    font-size: 0,9vw;
 }
 .lista{
     list-style: none;
+    font-size: 0,9vw;
 }

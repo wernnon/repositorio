@@ -6,15 +6,15 @@ import './Footercss.css'
 function Footer(){
     const Footer = [{
         img: <img src='src/Images/infro.jpg' width={15}></img>,
-        item: "Escola"
+        item: " Escola"
     },
     {
         img: <img src='src/Images/instagram.jpg' width={15}></img>,
-        item: "Instagran"   
+        item: " Instagran"   
     },
     {
         img: <img src='src/Images/facebook.png' width={15}></img>,
-        item: "Facebook"
+        item: " Facebook"
     }
 ]
 
@@ -23,9 +23,8 @@ const rodape = Footer.map(
     {
         return(
         <div className='lista'>
-            {img.map}
-            <br></br>
-            {item.map}
+            {rodape.img}
+            {rodape.item}
         </div>
         )
     }
@@ -33,21 +32,7 @@ const rodape = Footer.map(
 return(
     
     <footer className='Footer'>
-        <ul className='lista'>
-            <li>
-            <img src='src/Images/infro.jpg' width={15}></img>
-                Escola
-            </li>
-            <li>
-            <img src='src/Images/instagram.jpg' width={15}></img>
-                Instagram  
-            </li>
-            <li>
-            <img src='src/Images/facebook.png' width={15}></img>
-                Facebook 
-            </li>
-            
-        </ul>
+       
         <div>
             {rodape}
         </div>
