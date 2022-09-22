@@ -32,7 +32,7 @@ export default function Sugest() {
                 <div className='Img'>
                     <img className='Img'src={c.img}/>
                 </div>
-                <div className='title'>
+                <div className='title1'>
                     {c.titulo}  
                 </div>
             </div>
