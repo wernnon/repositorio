@@ -5,22 +5,22 @@ import './sugest.css'
 export default function Sugest() {
     const info = [
         {
-            img: 'src/Images/1140x641.jpg',
+            img: 'https://picsum.photos/197',
             titulo : 'place holder',
             link: '/materia'
         },
         {
-            img: 'src/Images/1140x641.jpg',
+            img: 'https://picsum.photos/198',
             titulo : 'place holder',
             link: '/materia2'
         },
         {
-            img: 'src/Images/1140x641.jpg',
+            img: 'https://picsum.photos/199',
             titulo : 'place holder',
             link: '/materia3'
         },
         {
-            img: 'src/Images/1140x641.jpg',
+            img: 'https://picsum.photos/200',
             titulo : 'place holder',
             link: '/materia4'
         }

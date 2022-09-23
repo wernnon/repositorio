@@ -7,7 +7,7 @@ export default function Materia4() {
     <div>
         <Titulo 
         manch='Não é possível que vai melhorar'
-        capa='src/Images/1140x641.jsx'/>
+        capa='https://picsum.photos/192'/>
         <News 
         News ='Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nulla quam vero voluptatibus quas? Quaerat temporibus doloremque, molestiae itaque suscipit magnam blanditiis? Provident, tenetur ullam dolorum error tempore illum nobis cupiditate.'/>
     </div>

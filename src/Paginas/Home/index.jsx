@@ -8,7 +8,7 @@ export default function Home() {
       <Main titulo='titulio'
       link='/materia0'
       news='Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel obcaecati impedit, recusandae harum illum exercitationem doloribus ducimus dolore facilis, adipisci iure reprehenderit distinctio officia neque id excepturi minima mollitia quaerat!'
-      image='src/Images/1140x641.jpg'
+      image='https://picsum.photos/196'
       />
       <Sugest />
     </div>

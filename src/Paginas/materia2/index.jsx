@@ -7,7 +7,7 @@ export default function Noticia2() {
     <div>
         <Titulo 
         manch='Que manchete sensacional'
-        capa='src/Images/1140x641.jsx'/>
+        capa='https://picsum.photos/194'/>
         <News 
         News ='Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nulla quam vero voluptatibus quas? Quaerat temporibus doloremque, molestiae itaque suscipit magnam blanditiis? Provident, tenetur ullam dolorum error tempore illum nobis cupiditate.'/>
     </div>
